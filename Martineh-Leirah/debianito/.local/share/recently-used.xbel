@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/debianito/youtube-embed-plus.8.9.zip" added="2014-09-12T15:31:36Z" modified="2014-09-12T15:31:36Z" visited="2014-09-12T15:31:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T15:31:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/debipeliss.jpg" added="2014-09-12T16:12:55Z" modified="2014-10-10T11:08:08Z" visited="2014-09-12T16:12:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T17:43:28Z" count="12"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2014-10-10T11:05:04Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:08:08Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/mh-purity-lite.1.0.7.zip" added="2014-09-12T16:21:01Z" modified="2014-09-12T16:21:02Z" visited="2014-09-12T16:21:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T16:21:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/rectangulum.1.0.4.zip" added="2014-09-12T16:21:06Z" modified="2014-09-12T16:21:07Z" visited="2014-09-12T16:21:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T16:21:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/simplify.2.5.zip" added="2014-09-12T16:21:12Z" modified="2014-09-12T16:21:12Z" visited="2014-09-12T16:21:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T16:21:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/Avengers.JPG" added="2014-09-12T16:29:43Z" modified="2014-09-12T16:37:59Z" visited="2014-09-12T16:29:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T16:37:59Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Solo-puntos.jpg" added="2014-09-12T16:46:13Z" modified="2014-09-12T17:54:32Z" visited="2014-09-12T16:46:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T17:54:32Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/DebiPelis3.jpg" added="2014-09-12T17:00:37Z" modified="2014-10-10T11:06:40Z" visited="2014-09-12T17:00:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T17:43:13Z" count="5"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:06:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Harry_Potter_y_el_C%C3%A1liz_de_Fuego.jpg" added="2014-09-12T17:15:42Z" modified="2014-09-12T17:16:28Z" visited="2014-09-12T17:15:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T17:16:28Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Wallpaper_Latino_El_Conjuro_1600x1200_JPosters.jpg" added="2014-09-12T17:38:48Z" modified="2014-09-12T17:39:00Z" visited="2014-09-12T17:38:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T17:39:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/rec_poster.jpg" added="2014-09-12T18:00:09Z" modified="2014-09-12T18:01:12Z" visited="2014-09-12T18:00:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-12T18:01:12Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/whysoseriousebyatribecawb1.jpg" added="2014-09-15T11:45:47Z" modified="2014-09-15T11:47:18Z" visited="2014-09-15T11:45:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T11:47:18Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/2f9ac-fauno2.jpg" added="2014-09-15T11:55:18Z" modified="2014-10-10T10:59:10Z" visited="2014-09-15T11:55:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-10-10T10:59:10Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/linux-vs-windows.jpg" added="2014-09-15T12:00:23Z" modified="2014-09-15T12:00:34Z" visited="2014-09-15T12:00:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T12:00:34Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/avatar.jpg" added="2014-09-15T13:02:53Z" modified="2014-09-15T13:03:01Z" visited="2014-09-15T13:02:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T13:03:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/2330.jpg" added="2014-09-15T13:09:53Z" modified="2014-09-15T13:10:08Z" visited="2014-09-15T13:09:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T13:10:08Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Arma_letal-874250581-main.jpg" added="2014-09-15T13:19:06Z" modified="2014-09-15T13:19:32Z" visited="2014-09-15T13:19:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T13:19:32Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/xXx-372115502-large-166x250.jpg" added="2014-09-15T13:22:45Z" modified="2014-09-15T13:23:14Z" visited="2014-09-15T13:22:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T13:23:14Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Los_ojos_de_Julia-914059515-main.jpg" added="2014-09-15T13:26:52Z" modified="2014-09-15T13:27:27Z" visited="2014-09-15T13:26:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T13:27:27Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/8475.jpg" added="2014-09-15T13:30:36Z" modified="2014-09-15T13:30:51Z" visited="2014-09-15T13:30:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-15T13:30:51Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/install_flash_player_11_linux.x86_64.tar.gz" added="2014-09-26T11:04:45Z" modified="2014-09-26T11:06:45Z" visited="2014-09-26T11:04:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T11:04:54Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %U&apos;" modified="2014-09-26T11:06:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/puntuador.zip" added="2014-09-26T16:08:18Z" modified="2014-09-26T16:08:45Z" visited="2014-09-26T16:08:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T16:08:45Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/rate-my-whatever.zip" added="2014-09-26T16:15:15Z" modified="2014-09-26T16:15:44Z" visited="2014-09-26T16:15:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T16:15:44Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/rating-widget.2.1.7.zip" added="2014-09-26T16:26:04Z" modified="2014-09-26T16:27:01Z" visited="2014-09-26T16:26:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T16:27:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/Avatar_Trailer_The_Movie_New_Extended_HD_Trailer.mp4" added="2014-09-26T17:01:35Z" modified="2014-09-26T17:28:08Z" visited="2014-09-26T17:01:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T17:28:08Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/debian-neon-logo.jpg" added="2014-09-26T17:44:36Z" modified="2014-09-26T17:44:51Z" visited="2014-09-26T17:44:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T17:44:51Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/DebiPelisLogo.jpg" added="2014-09-26T17:46:06Z" modified="2014-10-10T11:06:14Z" visited="2014-09-26T17:46:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-09-26T17:46:22Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:06:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/inicio.png" added="2014-10-03T15:59:49Z" modified="2014-10-10T11:06:51Z" visited="2014-10-03T15:59:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-10-03T15:59:49Z" count="1"/>
+          <bookmark:application name="plugin-container" exec="&apos;plugin-container %u&apos;" modified="2014-10-03T16:25:11Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:06:51Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/firefox-32.0.3.tar.bz2" added="2014-10-03T16:10:49Z" modified="2014-10-03T16:12:24Z" visited="2014-10-03T16:10:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-10-03T16:11:45Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;ark -caption &quot;%c&quot; %U&apos;" modified="2014-10-03T16:12:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/inicio2.jpg.jpg" added="2014-10-03T16:30:10Z" modified="2014-10-03T16:30:10Z" visited="2014-10-03T16:30:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="plugin-container" exec="&apos;plugin-container %u&apos;" modified="2014-10-03T16:30:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/Pagina%20Newsletter.png" added="2014-10-10T10:48:23Z" modified="2014-10-10T10:48:23Z" visited="2014-10-10T10:48:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-10-10T10:48:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/Pagina%20descargas.png" added="2014-10-10T10:49:18Z" modified="2014-10-10T10:49:18Z" visited="2014-10-10T10:49:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-10-10T10:49:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/pagina%20contactenos.png" added="2014-10-10T10:50:09Z" modified="2014-10-10T10:50:09Z" visited="2014-10-10T10:50:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-10-10T10:50:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/logo.png" added="2014-10-10T11:10:55Z" modified="2014-10-10T11:11:07Z" visited="2014-10-10T11:10:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:10:55Z" count="1"/>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-10-10T11:11:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/Capturas/Pagina%20Newsletter.png" added="2014-10-10T11:15:57Z" modified="2014-10-10T11:15:57Z" visited="2014-10-10T11:15:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:15:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/Capturas/Pagina%20descargas.png" added="2014-10-10T11:16:01Z" modified="2014-10-10T11:16:01Z" visited="2014-10-10T11:16:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:16:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/Capturas/pagina%20contactenos.png" added="2014-10-10T11:16:04Z" modified="2014-10-10T11:16:04Z" visited="2014-10-10T11:16:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-10-10T11:16:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/pagina%20ayuda.png" added="2014-10-10T11:18:34Z" modified="2014-10-10T11:18:34Z" visited="2014-10-10T11:18:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-10-10T11:18:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/chat.png" added="2014-10-10T11:19:33Z" modified="2014-10-10T11:19:33Z" visited="2014-10-10T11:19:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-10-10T11:19:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/debianito/Desktop/localhost.sql" added="2014-10-10T11:57:49Z" modified="2014-10-10T11:57:50Z" visited="2014-10-10T11:57:50.145366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-sql"/>
+        <bookmark:applications>
+          <bookmark:application name="Iceweasel" exec="&apos;iceweasel %u&apos;" modified="2014-10-10T11:57:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

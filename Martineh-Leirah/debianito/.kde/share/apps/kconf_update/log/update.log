@@ -1,0 +1,48 @@
+2014-10-03T18:12:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2014-10-03T18:12:28 kio_help.upd: Found new update 'kde3_2'
+2014-10-03T18:12:28 kio_help.upd: Running script 'move_kio_help_cache.sh'
+2014-10-03T18:12:28 [Script] mv: no se puede efectuar `stat' sobre «/home/debianito/.kde/share/apps/kio_help/cache»: No existe el fichero o el directorio
+2014-10-03T18:12:28 [Script] rmdir: fallo al borrar «/home/debianito/.kde/share/apps/kio_help»: No existe el fichero o el directorio
+2014-10-03T18:12:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kdeui.upd' for new updates
+2014-10-03T18:12:28 kdeui.upd: Found new update 'kde4/migrate_from_kde3_icon_theme'
+2014-10-03T18:12:28 kdeui.upd: Running script 'migrate_from_kde3_icon_theme'
+2014-10-03T18:12:28 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2014-10-03T18:12:28 favicons.upd: Found new update 'kde3_2'
+2014-10-03T18:12:28 favicons.upd: Running script 'move_favicons.sh'
+2014-10-03T18:12:28 Checking update-file '/usr/share/kde4/apps/kconf_update/nepomukstrigiservice-migrate.upd' for new updates
+2014-10-03T18:12:28 nepomukstrigiservice-migrate.upd: Found new update 'nepomukstrigiservice-migrate'
+2014-10-03T18:12:28 nepomukstrigiservice-migrate.upd: File 'nepomukserverrc' does not exist or empty, skipping
+2014-10-03T18:12:28 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2014-10-03T18:12:28 kioslave.upd: Found new update 'kde2.2/r1'
+2014-10-03T18:12:28 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-10-03T18:12:28 kioslave.upd: Skipping update 'kde2.2/r1'
+2014-10-03T18:12:28 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-10-03T18:12:28 kioslave.upd: Found new update 'kde2.2/r2'
+2014-10-03T18:12:28 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-10-03T18:12:28 kioslave.upd: Found new update 'kde2.2/r3'
+2014-10-03T18:12:28 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2014-10-03T18:12:28 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2014-10-03T18:12:29 ksslcertificatemanager.upd: Found new update 'kde4.2'
+2014-10-03T18:12:29 ksslcertificatemanager.upd: Running script 'ksslcertificatemanager.upd.sh'
+2014-10-03T18:12:29 [Script] rm: no se puede borrar «/home/debianito/.kde//share/config/ksslcertificatemanager»: No existe el fichero o el directorio
+2014-10-03T18:12:29 ksslcertificatemanager.upd: !! An error occurred while running 'sh /usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd.sh'
+2014-10-03T18:12:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2014-10-03T18:12:29 kded.upd: Found new update 'kde3.0'
+2014-10-03T18:12:29 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2014-10-03T18:12:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2014-10-03T18:12:29 kcookiescfg.upd: Found new update 'kde2.2/b1'
+2014-10-03T18:12:29 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2014-10-03T18:12:29 kcookiescfg.upd: Found new update 'kde3.1/cvs'
+2014-10-03T18:12:29 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2014-10-03T18:12:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2014-10-03T18:12:29 kate-2.4.upd: Found new update 'kate2.4'
+2014-10-03T18:12:29 kate-2.4.upd: Updating katerc:Filelist:Sort Type to ''
+2014-10-03T18:12:29 kate-2.4.upd: Removing katerc:General:Sort Type of File List, moved.
+2014-10-03T18:12:29 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2014-10-03T18:12:29 devicepreference.upd: Found new update 'DevicesMovedToPlatformPlugin'
+2014-10-03T18:12:29 devicepreference.upd: Running script 'phonon_devicepreference_update'
+2014-10-03T18:12:29 devicepreference.upd: Found new update 'DevicesUIDsChanged'
+2014-10-03T18:12:29 devicepreference.upd: Running script 'phonon_deviceuids_update'
+2014-10-03T18:12:29 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2014-10-03T18:12:29 kuriikwsfilter.upd: Found new update 'post-kde3.1/cvs'
+2014-10-03T18:12:29 kuriikwsfilter.upd: File 'kuriikwsfilterrc' does not exist or empty, skipping

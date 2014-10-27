@@ -1,0 +1,39 @@
+/etc/gdm3/Xsession: Beginning session setup...
+localuser:debianito being added to access control list
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+gnome-session-is-accelerated: No hardware 3D support.
+gnome-session-check-accelerated: Helper exited with code 256
+x-session-manager[3755]: WARNING: Session 'gnome' runnable check failed: Salió con el código 1
+GNOME_KEYRING_CONTROL=/home/debianito/.cache/keyring-uuMad1
+GNOME_KEYRING_CONTROL=/home/debianito/.cache/keyring-uuMad1
+GNOME_KEYRING_CONTROL=/home/debianito/.cache/keyring-uuMad1
+SSH_AUTH_SOCK=/home/debianito/.cache/keyring-uuMad1/ssh
+GNOME_KEYRING_CONTROL=/home/debianito/.cache/keyring-uuMad1
+SSH_AUTH_SOCK=/home/debianito/.cache/keyring-uuMad1/ssh
+GPG_AGENT_INFO=/home/debianito/.cache/keyring-uuMad1/gpg:0:1
+
+(gnome-panel:3861): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:3861): WARNING **: Unable to parse mouse modifier '(null)'
+
+/usr/bin/start-pulseaudio-x11: 26: /usr/bin/start-pulseaudio-x11: /usr/bin/pactl: not found
+** Message: applet now removed from the notification area
+Initializing tracker-store...
+Tracker-Message: Setting up monitor for changes to config file:'/home/debianito/.config/tracker/tracker-store.cfg'
+Tracker-Message: Setting up monitor for changes to config file:'/home/debianito/.config/tracker/tracker-store.cfg'
+Starting log:
+  File:'/home/debianito/.local/share/tracker/tracker-store.log'
+
+(gnome-panel:3861): Gtk-CRITICAL **: gtk_accelerator_parse_with_keycode: assertion `accelerator != NULL' failed
+
+** (gnome-panel:3861): WARNING **: Unable to parse mouse modifier '(null)'
+
+
+(gnome-panel:3861): GLib-GObject-WARNING **: /tmp/buildd/glib2.0-2.33.12+really2.32.4/./gobject/gsignal.c:2459: signal `size_request' is invalid for instance `0x1a3bb40'
+** Message: applet now embedded in the notification area
+
+(gnome-terminal:3957): Vte-2.90-WARNING **: No se pueden convertir caracteres de UTF-8 a actual.
+Unhandled value type TerminalEncoding of pspec encoding
